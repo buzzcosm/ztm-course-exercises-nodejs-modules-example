@@ -14,13 +14,13 @@ Showcase for own `https` module.
 
 > Run
 
-```nodejs
+```
 node js-module/https.js
 ```
 
 > Result
 
-```bash
+```
 sending encrypted data to https://google.com
 decrypted data
 ```
