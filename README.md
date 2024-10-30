@@ -14,7 +14,7 @@ Showcase for own `https` module.
 
 > Run
 
-```bash
+```nodejs
 node js-module/https.js
 ```
 
