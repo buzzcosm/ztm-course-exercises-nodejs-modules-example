@@ -29,9 +29,9 @@ decrypted data
 
 <!-- [![YouTube - 10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](http://img.youtube.com/vi/M3BM9TB-8yA/0.jpg)](http://www.youtube.com/watch?v=M3BM9TB-8yA) -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=M3BM9TB-8yA
-" target="_blank"><img src="http://img.youtube.com/vi/M3BM9TB-8yA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=M3BM9TB-8yA" target="_blank">
+  <img src="http://img.youtube.com/vi/M3BM9TB-8yA/0.jpg" alt="10 Things I Regret About Node.js - Ryan Dahl - JSConf EU" width="240" height="180" border="10" />
+</a>
 
 ## Useful references
 
