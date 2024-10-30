@@ -12,13 +12,13 @@
 
 Showcase for own `https` module.
 
-> Run
+> Run (console)
 
 ```
 node js-module/https.js
 ```
 
-> Result
+> Result (console)
 
 ```
 sending encrypted data to https://google.com
