@@ -25,7 +25,7 @@ sending encrypted data to https://google.com
 decrypted data
 ```
 
-### Ryan Dahl
+### [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl#:~:text=Ryan%20Dahl%20(born%201981)%20is,the%20Deno%20JavaScript%2FTypeScript%20runtime.&text=Dahl%20(2010%3B%20age%2029).)
 
 [![YouTube - 10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](http://img.youtube.com/vi/M3BM9TB-8yA/0.jpg)](http://www.youtube.com/watch?v=M3BM9TB-8yA)
 
