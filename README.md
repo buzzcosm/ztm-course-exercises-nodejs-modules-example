@@ -25,6 +25,10 @@ sending encrypted data to https://google.com
 decrypted data
 ```
 
+### Ryan Dahl
+
+[![YouTube - 10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](http://img.youtube.com/vi/M3BM9TB-8yA/0.jpg)](http://www.youtube.com/watch?v=M3BM9TB-8yA)
+
 ## Useful references
 
 - [Node.js Docs - Modules: CommonJS modules](https://nodejs.org/api/modules.html#modules_modules_commonjs_modules)
@@ -32,3 +36,4 @@ decrypted data
 - [Mozilla - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 - [Node.js Docs - How The require Function Finds Modules](https://nodejs.org/api/modules.html#modules_all_together)
 - [YouTube - 10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+
